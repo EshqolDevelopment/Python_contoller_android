@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name1">שליחת פקודות פייתון</string>
+    <string name="connected">מחובר</string>
+    <string name="disconnected">מנותק</string>
+    <string name="send_command">שלח פקודה</string>
+    <string name="output">הפלט יוצג כאן</string>
+    <string name="documentation">הסבר</string>
+    <string name="home">דף הבית</string>
+    <string name="pc_version">גרסה למחשב</string>
+    <string name="to_send_command_to_your_computer_first_scan_the_qr_code_that_appears_in_the_computer_s_app">כדי לשלוח פקודה למחשב תחילה סרוק את קוד ה-QR המופיע באפליקציית המחשב.</string>
+    <string name="connect_code">קוד הפעלה</string>
+    <string name="or_enter_the_code_manually_below">או הזן את הקוד ידנית למטה:</string>
+    <string name="connect">התחבר</string>
+    <string name="connect_to_your_device">התחבר למכשיר שלך</string>
+    <string name="doc_title">דוגמאות ותיעוד</string>
+</resources>

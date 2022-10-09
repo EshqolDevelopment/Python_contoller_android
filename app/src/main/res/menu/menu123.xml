@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+            android:id="@+id/documentation"
+            android:enabled="true"
+            android:title="@string/documentation"
+            android:icon="@drawable/ic_baseline_integration_instructions_24"
+            app:showAsAction="ifRoom" />
+
+    <item
+            android:id="@+id/home"
+            android:enabled="true"
+            android:title="@string/home"
+            android:icon="@drawable/ic_baseline_home_24"
+            app:showAsAction="ifRoom" />
+
+    <item
+            android:id="@+id/pc"
+            android:enabled="true"
+            android:title="@string/pc_version"
+            android:icon="@drawable/ic_baseline_install_desktop_24"
+            app:showAsAction="ifRoom" />
+</menu>

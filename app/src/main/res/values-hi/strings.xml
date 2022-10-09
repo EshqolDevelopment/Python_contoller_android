@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name1">पायथन नियंत्रक</string>
+    <string name="connected">जुड़े हुए</string>
+    <string name="disconnected">डिस्कनेक्ट किया गया</string>
+    <string name="send_command">कमांड भेजें</string>
+    <string name="output">आउटपुट यहां प्रदर्शित किया जाएगा</string>
+    <string name="documentation">प्रलेखन</string>
+    <string name="doc_title">प्रलेखन</string>
+    <string name="home">घर</string>
+    <string name="pc_version">पीसी संस्करण</string>
+    <string name="to_send_command_to_your_computer_first_scan_the_qr_code_that_appears_in_the_computer_s_app">अपने कंप्यूटर को कमांड भेजने के लिए सबसे पहले कंप्यूटर के ऐप में दिखाई देने वाले क्यूआर कोड को स्कैन करें।</string>
+    <string name="connect_code">कनेक्ट कोड</string>
+    <string name="or_enter_the_code_manually_below">या नीचे मैन्युअल रूप से कोड दर्ज करें:</string>
+    <string name="connect">जुडिये</string>
+    <string name="connect_to_your_device">अपने डिवाइस से कनेक्ट करें</string>
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name1">controlador de Python</string>
+    <string name="connected">Conectado</string>
+    <string name="disconnected">Desconectado</string>
+    <string name="send_command">Enviar comando</string>
+    <string name="output">La salida se mostrará aquí.</string>
+    <string name="documentation">Documentación</string>
+    <string name="doc_title">Documentación</string>
+    <string name="home">Hogar</string>
+    <string name="pc_version">Versión para PC</string>
+    <string name="to_send_command_to_your_computer_first_scan_the_qr_code_that_appears_in_the_computer_s_app">Para enviar el comando a su computadora, primero escanee el código QR que aparece en la aplicación de la computadora.</string>
+    <string name="connect_code">Código de conexión</string>
+    <string name="or_enter_the_code_manually_below">O ingrese el código manualmente a continuación:</string>
+    <string name="connect">Conectar</string>
+    <string name="connect_to_your_device">Conéctese a su dispositivo</string>
+</resources>

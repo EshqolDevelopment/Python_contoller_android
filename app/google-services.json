@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1067532213767",
+    "firebase_url": "https://python-controller-f0c11-default-rtdb.firebaseio.com",
+    "project_id": "python-controller-f0c11",
+    "storage_bucket": "python-controller-f0c11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067532213767:android:ae5c5aa1ff3db9413554a2",
+        "android_client_info": {
+          "package_name": "com.eshqol.pythoncontoller123"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067532213767-9rai6hpfat2r3top6sjoc18r2l558otd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ7Ods8W9MctAvegz-NrbmLTJDENE3zTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067532213767-9rai6hpfat2r3top6sjoc18r2l558otd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
